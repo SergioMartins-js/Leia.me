@@ -1,7 +1,7 @@
 # Leia.me
 Sobre mim
 
-Me chamo Sérgio Martins de Sousa, sou formado em sistemas de informações pela unidesc na turma de 2018, atualmente curso pós graduação em engenharia de software com ênfase em teste e qualidade de software na ahanguera, tenho conhecimentos em C# .net core | MVC | JavaScript | React | SQL Server.
+Me chamo Sérgio Martins de Sousa, sou formado em sistemas de informações pela unidesc na turma de 2018, recentemente finalizei o curso de pós graduação em engenharia de software com ênfase em teste e qualidade de software na ahanguera, tenho conhecimentos em C# .net core | MVC | JavaScript | React | SQL Server.
 
 O que eu fiz e faço?
 
@@ -12,3 +12,5 @@ após o ciclo no Ministério da defesa, estagiei por 2 anos na ANTT(Agência Nac
 Após o ciclo de estagiário na ANTT, fui contratado pela WEBSIS TECNOLOGIA onde estou até hoje, hoje atuo em sistemas legados da ANTT utilizando principalmente C# .Net e SQL Server.
 
 Meu objetivo é conseguir me capacitar o suficiente para que eu possa trabalhar em uma grande empresa.
+
+
