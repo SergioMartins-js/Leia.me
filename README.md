@@ -11,6 +11,6 @@ após o ciclo no Ministério da defesa, estagiei por 2 anos na ANTT(Agência Nac
 
 Após o ciclo de estagiário na ANTT, fui contratado pela WEBSIS TECNOLOGIA onde estou até hoje, hoje atuo em sistemas legados da ANTT utilizando principalmente C# .Net e SQL Server.
 
-Meu objetivo é conseguir me capacitar o suficiente para que eu possa trabalhar em uma grande empresa.
+Meu objetivo é conseguir me capacitar o suficiente para que eu possa resolver qualquer tipo de problema o mais rápido e eficiente possível.
 
 
