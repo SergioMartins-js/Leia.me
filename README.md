@@ -2,7 +2,7 @@
 Sobre mim
 
 Me chamo Sérgio Martins de Sousa, sou formado em sistemas de informações pela unidesc na turma de 2018, recentemente finalizei o curso de pós graduação em engenharia de software com ênfase em teste e qualidade de software na ahanguera, tenho conhecimentos em C# .net core | MVC | JavaScript | React | SQL Server.
--
+--
 O que eu fiz e faço?
 
 Estagiei por quase 2 ano no ministério da defesa trabalhando com telefones voip's, instalando, configurando e ajudando na manuntenção da rede.
